@@ -1,0 +1,37 @@
+{
+  "name": "accrediation",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@ant-design/nextjs-registry": "^1.0.0",
+    "@svgr/webpack": "^8.1.0",
+    "@tiptap/core": "^2.2.4",
+    "@tiptap/react": "^2.2.4",
+    "@tiptap/starter-kit": "^2.2.4",
+    "antd": "^5.15.3",
+    "next": "14.1.4",
+    "quill": "^2.0.0-rc.4",
+    "react": "^18",
+    "react-calendar": "^4.8.0",
+    "react-date-range": "^2.0.0-alpha.4",
+    "react-datepicker": "^6.6.0",
+    "react-dom": "^18",
+    "react-quill": "^2.0.0",
+    "react-star-ratings": "^2.3.0",
+    "tiptap": "^1.32.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-datepicker": "^6.2.0",
+    "@types/react-dom": "^18",
+    "@types/react-star-ratings": "^2.3.3",
+    "typescript": "^5"
+  }
+}
